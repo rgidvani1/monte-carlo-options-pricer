@@ -214,7 +214,6 @@ pytest tests/ -v
 pytest tests/test_pricer.py
 ```
 
-## License
 
-MIT
+
 
